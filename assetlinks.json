@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.sana.cv.base",
+    "sha256_cert_fingerprints":
+    ["26:D1:FD:4E:12:1E:0D:1D:CA:41:F4:CB:A5:3A:1F:9D:43:41:83:F2:EB:16:E9:6E:B0:6D:2E:E6:01:7B:76:6B"]
+  }
+}]
